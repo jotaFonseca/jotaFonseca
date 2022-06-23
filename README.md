@@ -1,7 +1,7 @@
 
-## Fala ae. Eu sou o João Paulo Fonseca 😬✌ 
+## What's up. I'm João Paulo Fonseca 😬✌ 
 
-- 🌱 Estudando python
+- 🌱 Studying python 
 
 <div align="center">
   <a href="https://github.com/jotaFonseca">
@@ -9,8 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaFonseca&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Jotape-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Jotape-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/982467218501689357/989423362977722368/289612982_404005708453122_5695833367819951104_n.png">
+  <img align="center" alt="Jotape-Python" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Jotape-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/982467218501689357/989423362977722368/289612982_404005708453122_5695833367819951104_n.png">
 </div>
   
   ##
