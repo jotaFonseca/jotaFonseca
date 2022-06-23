@@ -1,5 +1,5 @@
 
-## What's up. I'm João Paulo Fonseca 😬✌ 
+## What's up! I'm João Paulo Fonseca 😬✌ 
 
 - 🌱 Studying python 
 
