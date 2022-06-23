@@ -10,6 +10,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Jotape-Python" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jotape-Git" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="right" alt="Jotape-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/982467218501689357/989423362977722368/289612982_404005708453122_5695833367819951104_n.png">
 </div>
   
