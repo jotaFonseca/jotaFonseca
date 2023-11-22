@@ -7,12 +7,11 @@ My name is João Paulo, I'm a computer engineer student and a full stack develop
 <br/>
 <br/>
 <br/>
-<div align="center" id = 'Table'>
+<div align="left" id = 'Table'>
   <a href="https://github.com/jotaFonseca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotaFonseca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaFonseca&layout=compact&langs_count=7&theme=radical"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jotaFonseca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
-
+<br/>
 # Tech Stack
 
 <div align="center" display="inline-block"><br>
