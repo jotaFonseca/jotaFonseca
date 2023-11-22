@@ -12,6 +12,7 @@ My name is João Paulo, I'm a computer engineer student and a full stack develop
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jotaFonseca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 <br/>
+    
 # Tech Stack
 
 <div align="center" display="inline-block"><br>
@@ -37,8 +38,9 @@ My name is João Paulo, I'm a computer engineer student and a full stack develop
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">-->
  </div>
+
   
-  ## you can find me here to 👇
+  ## You can find me here to 👇
   
   <div id = 'Target-Links'>
     <a href="https://www.instagram.com/jotap3.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
