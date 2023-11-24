@@ -4,6 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=jotaFonseca&color=blue" alt="Profile views" /> 
 
 My name is João Paulo, I'm a computer engineer student and a full stack developer in progress from Rio de Janeiro. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 😀 I like to play video games, code, read, and draw in my free time.
+- 🌐 Visit my [portfolio website](https://jotafonseca.github.io/portifolio/) for more information and to get in touch.
 <br/>
 <br/>
 <br/>
