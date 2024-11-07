@@ -31,6 +31,7 @@ My name is João Paulo, I'm a computer engineer student and a full stack develop
  <br>
  <br>
  <br>
+ <br>
 
 # GitHub Stats
 <div align="left" id = 'Table'>
