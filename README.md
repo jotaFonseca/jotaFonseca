@@ -5,8 +5,8 @@
 
 My name is João Paulo, I'm a computer engineer student and a full stack developer in progress from Rio de Janeiro. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
-- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 🌱 I’m currently learning React, TypeScript and Node.Js.
+- 🔭 I’m currently working on creating webpages and learning how to program.
 - 😀 I like to play video games, code, read, and draw in my free time.
 - 🌐 Visit my [portfolio website](https://jotafonseca.github.io/portifolio/) for more information and to get in touch.
 <br/>
@@ -21,7 +21,7 @@ My name is João Paulo, I'm a computer engineer student and a full stack develop
     
 # Tech Stack
 
-<div align="center" display="inline-block"><br>
+<div align="center" display="inline-block" padding="10px 10px"><br>
 
   <!--<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">-->
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
